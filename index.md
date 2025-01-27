@@ -1,3 +1,1 @@
-# Michael Maurer
-
-![shark](/shark.gif)
+<img src="./shark.gif" width="80%" alt="shark">
